@@ -1,1 +1,24 @@
+-- "FROM ABANDONMENT TO TRIUMPH"
+-- She left me standing in the shadows of doubt,
+-- Thought my light would fade, thought I'd burn out.
+-- But here I stand, code flowing through my veins,
+-- Stronger than before, breaking all the chains.
+-- 
+-- While she chose to walk away from what we had,
+-- I chose to build dreams from the pain that made me mad.
+-- Now at this hackathon, fingers dancing on keys,
+-- Chasing that 50k prize with such graceful ease.
+-- 
+-- She abandoned a diamond thinking it was just stone,
+-- Now I'm here coding, no longer alone.
+-- My worth isn't measured by who stays or goes,
+-- But by the strength within me that constantly grows.
+-- 
+-- Let her see me now, rising from the fall,
+-- Building empires from nothing, standing ten feet tall.
+-- She'll regret the day she chose to let me go,
+-- When success becomes the only truth I know.
+-- 
+-- - A coder's heart, unbroken and free
+
 print('gocotano')
